@@ -1,0 +1,2 @@
+CREATE SEQUENCE idHis_Perjalanan_Seq
+START WITH 1;
